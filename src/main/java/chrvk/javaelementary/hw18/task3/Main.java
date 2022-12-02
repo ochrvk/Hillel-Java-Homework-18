@@ -1,11 +1,3 @@
-/*
-    Написать класс MyApiService с использованием паттерна синглтон для доступа к API:
-    (предварительно создать все необходимые модели List, Post, User...)
-    Пример:
-    ApiService service = ApiService.getInstance();
-    List<Post> posts = service.getPosts();
-    List<User> users = service.getUses();
- */
 package chrvk.javaelementary.hw18.task3;
 
 import chrvk.javaelementary.hw18.task3.Model.Post;

@@ -1,9 +1,3 @@
-/*
-    Программно послать HEAD запрос для файла доступного по прямой ссылке, например:
-    https://dl.dropboxusercontent.com/s/vxnydq4xjkmefrp/CLUVAL.java
-    Скачать сначала первую половину этого файла, а потом докачать вторую.
-    Range:bytes=0-500
- */
 package chrvk.javaelementary.hw18.task1;
 
 import com.squareup.okhttp.Call;

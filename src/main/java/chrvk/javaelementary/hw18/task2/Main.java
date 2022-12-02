@@ -1,7 +1,3 @@
-/*
-    Программно послать POST запрос на https://postman-echo.com/post где в BODY передать foo1=bar1&foo2=bar2 в формате x-www-form-urlencoded
-    Ответ распарсить и вывести.
- */
 package chrvk.javaelementary.hw18.task2;
 
 import com.google.gson.Gson;
